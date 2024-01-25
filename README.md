@@ -8,15 +8,21 @@ Welcome to FarmMaster, your ultimate automation tool designed to redefine your R
 
 Unlock the full potential of FarmMaster with our premium version, offering regular updates and complete access to customizable scripts for your unique Roblox experiences.
 
-## Advantages of FarmMaster Premium:
+## Advantages of FarmMaster PREMIUM:
 
-- **Auto-Click:** Streamline repetitive tasks with precision, giving you a competitive edge.
+- **Fast Auto-Click:** clicks at the maximum speed of your game, forget about breaking your finger!!
+
+- **Frequent Updates:** check out the new scripts and updates first hand
+
+- **Personalized Scripts:** Tailor your gaming experience with exclusively crafted, customizable scripts, ensuring a unique touch for every user.
+
+## Advantages of FarmMaster FREE:
+
+- **Normal Auto-Click:** click now automatically at a reasonable speed and double the speed of your farm
 
 - **Auto-Farm:** Enhance productivity by automating resource gathering, allowing you to focus on strategic gameplay.
 
 - **Auto-Egg:** Elevate your gameplay with the addition of auto-egg functionality for a seamless gaming experience.
-
-- **Personalized Scripts:** Tailor your gaming experience with exclusively crafted, customizable scripts, ensuring a unique touch for every user.
 
 ## Key Features:
 
