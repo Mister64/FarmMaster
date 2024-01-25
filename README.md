@@ -4,13 +4,17 @@
 
 Welcome to FarmMaster, your ultimate automation tool designed to redefine your Roblox gaming experience. Packed with powerful features like auto-click, auto-farm, auto-fish, and personalized scripts, FarmMaster empowers players to supercharge efficiency and elevate their in-game adventures.
 
-## Advantages of FarmMaster:
+## Premium Version
+
+Unlock the full potential of FarmMaster with our premium version, offering regular updates and complete access to customizable scripts for your unique Roblox experiences.
+
+## Advantages of FarmMaster Premium:
 
 - **Auto-Click:** Streamline repetitive tasks with precision, giving you a competitive edge.
 
 - **Auto-Farm:** Enhance productivity by automating resource gathering, allowing you to focus on strategic gameplay.
 
-- **Auto-Fish:** Immerse yourself in a hands-free fishing experience, adding enjoyment to your virtual adventures.
+- **Auto-Egg:** Elevate your gameplay with the addition of auto-egg functionality for a seamless gaming experience.
 
 - **Personalized Scripts:** Tailor your gaming experience with exclusively crafted, customizable scripts, ensuring a unique touch for every user.
 
@@ -33,8 +37,11 @@ A: We are dedicated to continuous improvement. FarmMaster receives frequent upda
 **Q: Why isn't FarmMaster open source?**
 A: Due to the prevalence of scams and code theft, our team decided to protect the source code to enhance security and credibility for the project.
 
-**Q: Is it free to join FarmMaster Experimental Testers?**
-A: YES, there are numerous free slots available for testing experimental functions. If these slots are filled, we have a waiting list and the option for expedited participation through donations.
+## Premium Access:
+
+Experience FarmMaster in its full glory with the premium version. To unlock premium features and access exclusive scripts, contact us for purchase details.
+
+**Contact for Premium:** masterpy (Discord)
 
 ## ROADMAP:
 
