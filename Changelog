@@ -1,6 +1,17 @@
-Current Version: V1.0
+Current Version: V1.1
 
 Changelog:
+
+## V1.1 (release: 25/1/24)
+
+- new options introduzed
+- Personalized script introduzed (premium)
+- normal auto clicker had its click time updated (200ms -> 90ms)
+- fast auto clicker has undergone numerous improvements and now operates at the maximum speed of win32api (premium)
+- General code improvements and preparation for future updates
+- redesigned basic interface
+- Updated and more dynamic error/info system
+- Updated sales model (donation access -> premium purchase access)
 
 ## V1.0 (release: 21/1/24)
 
