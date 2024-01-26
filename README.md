@@ -28,6 +28,12 @@ Welcome to FarmMaster, your ultimate automation tool designed to redefine your R
 
 - **Secure Code:** Rest easy knowing that FarmMaster is meticulously crafted with security in mind, providing a virus-free and trustworthy environment.
 
+## Premium Access:
+
+![premium](https://github.com/Mister64/FarmMaster/assets/156092247/6f22147b-3dda-4d80-a9e5-40f68322401d)
+
+**Buy Now:** patreon.com/FarmMaster or masterpy (discord)
+
 ## FAQ (Frequently Asked Questions):
 
 **Q: Is FarmMaster safe to use?**
@@ -38,17 +44,5 @@ A: We are dedicated to continuous improvement. FarmMaster receives frequent upda
 
 **Q: Why isn't FarmMaster open source?**
 A: Due to the prevalence of scams and code theft, our team decided to protect the source code to enhance security and credibility for the project.
-
-## Premium Access:
-
-Experience FarmMaster in its full glory with the premium version. To unlock premium features and access exclusive scripts, contact us for purchase details.
-
-**Contact for Premium:** masterpy (Discord)
-
-## ROADMAP:
-
-![RoadMap](https://github.com/Mister64/FarmMaster/assets/156092247/bce98abc-493c-4212-9c83-a0bbe00693a2)
-
-Embark on an exciting journey with FarmMaster! Join our evolving community as FarmMaster continues to provide unparalleled automation and an enhanced Roblox adventure. Level up your gaming – FarmMaster awaits!
 
 ### Made With ❤️ By Mister64 And TheNeObr
