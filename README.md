@@ -30,9 +30,12 @@ Welcome to FarmMaster, your ultimate automation tool designed to redefine your R
 
 ## Premium Access:
 
-![premium](https://github.com/Mister64/FarmMaster/assets/156092247/6f22147b-3dda-4d80-a9e5-40f68322401d)
+![Minimalist Purple Pricing Comparison Chart Table Graph](https://github.com/Mister64/FarmMaster/assets/156092247/3faa5f0e-63d5-475d-a52d-38761643e3e0)
 
-**Buy Now:** patreon.com/FarmMaster or masterpy (discord)
+**Buy Now:** patreon.com/FarmMaster
+
+
+**OBS** Para brasilheiros que quiserem comprar com uma taxa localizada favor chamar no discord (masterpy)
 
 ## FAQ (Frequently Asked Questions):
 
